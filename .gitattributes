@@ -1,0 +1,2 @@
+# Forzar el lenguaje principal a C#
+*.cs linguist-language=C#
